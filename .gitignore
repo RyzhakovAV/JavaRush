@@ -1,0 +1,5 @@
+# Project exclude paths
+*.iml
+.gitignore
+.idea
+/out/
