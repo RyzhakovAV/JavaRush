@@ -1,4 +1,4 @@
-//Убери комментарии с части кода, чтобы на экран вывелось сообщение "Happy New Year".
+package level_1;//Убери комментарии с части кода, чтобы на экран вывелось сообщение "Happy New Year".
 
 public class Example_006 {
     public static void main(String[] args) {

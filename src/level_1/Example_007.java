@@ -1,3 +1,5 @@
+package level_1;
+
 //Раскомментируй одну строчку, чтобы программа вывела на экран числа 12 и 2 (сначала 12, а затем 2).
 public class Example_007 {
     public static void main (String[] args) {
